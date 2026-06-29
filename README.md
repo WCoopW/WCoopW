@@ -17,7 +17,7 @@
 #### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,cs,dotnet,nestjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=go,ts,cs,js,dotnet,nestjs,nodejs" />
 </p>
 
 #### 🛠 Infrastructure & DevOps
